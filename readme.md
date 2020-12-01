@@ -1,2 +1,2 @@
-Repozytorium zadan C++.
+Repozytorium zadań C++.
 Kajetan Więch ©
